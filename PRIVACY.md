@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy for Tap To Travel
 permalink: /privacy/
+layout: default
 ---
 
 # Privacy Policy for Tap To Travel
