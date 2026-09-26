@@ -5,7 +5,6 @@ permalink: /privacy/
 
 # Privacy Policy for Tap To Travel
 
-**Effective date:** September 26, 2026  
 **Last updated:** September 26, 2026
 
 This Privacy Policy explains how **Tap To Travel** (the “App”) processes information when you install and use it.
