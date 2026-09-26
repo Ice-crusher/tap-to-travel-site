@@ -14,7 +14,7 @@ This Privacy Policy explains how **Tap To Travel** (the “App”) processes inf
 
 The App is developed and operated by **Andrii Romanets** (“we”, “us”, or “our”).
 
-For privacy questions or requests, contact us through the support contact shown on the Tap To Travel Steam store page or through the developer’s [GitHub profile](https://github.com/Ice-crusher). Please do not post sensitive personal information in a public GitHub issue.
+For privacy questions or requests, use the support contact shown on the Tap To Travel Steam store page. Do not include passwords or other unnecessary sensitive information.
 
 ## 2. Information processed by the App
 
@@ -130,4 +130,4 @@ We may update this Privacy Policy when the App, its providers, or legal requirem
 
 ## 10. Contact
 
-For privacy questions or requests, use the support contact shown on the Tap To Travel Steam store page or contact the developer through the [Ice-crusher GitHub profile](https://github.com/Ice-crusher). Do not include passwords or other unnecessary sensitive information.
+For privacy questions or requests, use the support contact shown on the Tap To Travel Steam store page. Do not include passwords or other unnecessary sensitive information.
